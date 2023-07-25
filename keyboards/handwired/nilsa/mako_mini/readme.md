@@ -6,6 +6,7 @@
 
 * Keyboard Maintainer: [Nils Andresen](https://github.com/nils-a)
 * Hardware Supported: Handwired, using a ProMicro
+* Layout: http://www.keyboard-layout-editor.com/#/gists/7efeed849d88daf3d6483efc6d727eb0
 
 Make example for this keyboard (after setting up your build environment):
 
