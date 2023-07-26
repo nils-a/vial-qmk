@@ -3,6 +3,8 @@
 
 #pragma once
 
+#define LED_NUM_LOCK_PIN D1
+
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.

@@ -7,6 +7,8 @@
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 1 }
 
+#define LED_NUM_LOCK_PIN D1
+
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
